@@ -11,5 +11,5 @@ then vowel= vowel+1
 else if the character is consonant 
 then cons=cons+1
 }
-assign the values Tp cons , vowel ,charc .
+assign the values To cons , vowel ,charc .
 dispay the values.
