@@ -1,6 +1,6 @@
 # word-analyzer
 
-This program determine number of consonants and vowels for any input value.
+This program determine number of consonants and vowels for any input value. <br>
 i inisialise the values cons: 0, vowel: 0, charc: 0,
 TextInput From the user 
 component analyzeWord  
